@@ -1,0 +1,135 @@
+/*style for the main header*/
+#main{
+color:#A4A400;
+font-family:"Lucida Sans Unicode",Helvertica,Arial,sans-serif;
+text-align:center;
+text-decoration:underline;
+font-weight:bold;
+font-size:22pt;
+letter-spacing:0.25em;
+}
+#main span{
+background-color:#F0F0F0;
+}
+
+/*style for all the headers that are align to the left*/
+.header span{
+background-color:#F0F0F0;
+color:#A4A400;
+font-family:"Lucida Sans Unicode",Helvertica,Arial,sans-serif;
+text-align:left;
+text-decoration:underline;
+font-weight:normal;
+font-size:18pt;
+letter-spacing:0.25em;
+}
+
+/*all body style*/
+body{
+background-color:white;
+color:#404040;
+font-size:11pt;
+font-family:Georgia, Garamond, serif;
+background-image:url("images/silverware.jpg");
+background-repeat:repeat;
+background-attachment:fixed;
+}
+
+/*style for the links*/
+a{
+color:#A4A400;
+}
+
+/*abbreviations style*/
+abbr{
+text-decoration:underline;
+}
+
+/*style for the pre formatted text*/
+pre{
+font-family:monospace;
+text-align:justify;
+}
+
+/*style for the blockquote*/
+blockquote{
+background-color:#FFFFA8;
+font-style:italic;
+
+}
+
+/*line style for the word cake*/
+#cake{
+text-decoration:line-through;
+}
+
+/*image for the list*/
+.list{
+list-style-image:url("images/pie_bullet.png");
+}
+
+/*css for the index page*/
+/*index for the body in index.html*/
+#index_body{
+background-image:url("images/index.jpg");
+background-repeat:repeat;
+background-attachment:fixed;
+}
+
+/*style for the exterior div*/
+#principal{
+border:2px solid black;
+border-radius:20px;
+background-image:url("images/image1.jpg");
+background-attachment:fixed;
+width:80%;
+height:1000px;
+margin:auto;
+padding-bottom:20px;
+padding-top:20px;
+text-align:center;
+}
+
+/*style for the header inside the first div*/
+div h1{
+font-family:monospace;
+font-size:150px;
+margin:auto;
+color:white;
+vertical-align:middle;
+line-height:200px;
+}
+
+/*style for the div inside the first one*/
+#interior{
+background-color:#3399FF;
+margin:auto;
+border:2px solid black;
+height:850px;
+border-radius:0px;
+width:80%;
+}
+
+/*style for header inside second div*/
+h2{
+font-size:80px;
+font-family:serif;
+}
+
+/*style for the list inside div*/
+#main_list{
+text-align:left;
+}
+
+/*style for the paragraph*/
+#index_introduction{
+font-size:60px;
+font-family:serif;
+}
+
+/*style for the arrow*/
+#arrow{
+height:200px;
+}
+
+
