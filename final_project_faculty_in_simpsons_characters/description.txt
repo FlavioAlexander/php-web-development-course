@@ -1,0 +1,13 @@
+This project will create a website for Electrical and Computer Engineering professors as Simpson’s characters. 
+All pages, including the home page will have the same basic structure. The top tab is a simple banner. The left
+ side has a navigation menu linking to all the other pages. A special link named “Log In” will prompt the user 
+ for log in credentials. Two types of users may be able to access “restricted information.” They are students 
+ and administrators. The log In prompt will requires both username and password. If the user is validated to 
+ be an administrator he/she will be able to add or delete professor profiles.
+
+ This project will create a website for Electrical and Computer Engineering professors as Simpson’s characters.
+ All pages, including the home page will have the same basic structure. The top tab is a simple banner. The left 
+ side has a navigation menu linking to all the other pages. A special link named “Log In” will prompt the user 
+ for log in credentials. Two types of users may be able to access “restricted information.” They are students
+ and administrators. The log In prompt will requires both username and password. If the user is validated to be
+ an administrator he/she will be able to add or delete professor profiles.

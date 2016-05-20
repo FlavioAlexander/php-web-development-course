@@ -1,0 +1,8 @@
+CMPE 470      
+ECEG 548      
+ECEG 701      
+EECE 203      
+EECE 315      
+ELEC 307      
+ELEC 310      
+ELEC 548      

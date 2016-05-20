@@ -1,0 +1,7 @@
+ECEG 706      
+ECEG 710      
+ECEG 796      
+EECE 303      
+EECE 304      
+EECE 491      
+ELEC 433      

@@ -1,0 +1,16 @@
+CMPE 471      
+ELEC 417       
+ECEG 723      
+ECEG 520      
+ECEG 520      
+ECEG 721      
+ECEG 727      
+ECEG 472       
+ECEG 728      
+ECEG 796      
+EECE 317      
+EECE 520      
+EECE 530      
+ELEC 408      
+ELEC 419      
+ENGS 116      

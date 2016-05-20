@@ -1,0 +1,8 @@
+ECEG 796      
+EECE 201      
+EECE 306      
+EECE 591      
+ELEC 305      
+ELEC 419      
+ENGS 115      
+ENGS 116       
